@@ -29,6 +29,7 @@ This project bridges pure mathematics, computer graphics, and fashion design. Us
   * **Anthropic Claude**: Algorithmic script optimization, mathematical parameter fine-tuning, and project documentation.
 
 ---
+<img width="2048" height="2048" alt="fractal design shirt" src="https://github.com/user-attachments/assets/7ce3834b-8c3f-4238-aba6-058261b2599f" />
 
 ## Setup and Run Instructions
 
@@ -39,6 +40,3 @@ Ensure Python 3.x is installed along with the required dependencies:
 ```bash
 pip install numpy matplotlib pillow
 
-
-
-<img width="2048" height="2048" alt="fractal design shirt" src="https://github.com/user-attachments/assets/7ce3834b-8c3f-4238-aba6-058261b2599f" />
