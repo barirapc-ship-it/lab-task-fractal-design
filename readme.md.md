@@ -1,3 +1,5 @@
+BARIRTA NAJAM 
+577187 
 # Fractal Fashion: Julia Set Evening Dress Design
 
 An end-to-end computational design project that generates mathematically precise Julia Set fractals using Python and transforms them into luxury haute couture 3D garment concepts using Generative AI workflows.
@@ -36,3 +38,7 @@ Ensure Python 3.x is installed along with the required dependencies:
 
 ```bash
 pip install numpy matplotlib pillow
+
+
+
+<img width="2048" height="2048" alt="fractal design shirt" src="https://github.com/user-attachments/assets/7ce3834b-8c3f-4238-aba6-058261b2599f" />
